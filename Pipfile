@@ -7,6 +7,11 @@ name = "pypi"
 langchain = "*"
 black = "*"
 openai = "==0.28.1"
+tweepy = "*"
+python-dateutil = "*"
+flask = "*"
+google-search-results = "*"
+pydantic = "*"
 
 [dev-packages]
 
